@@ -1,0 +1,103 @@
+Launch instances
+
+Filter instances
+
+1
+
+
+Name
+Instance ID
+Instance state
+Instance type
+Status check
+Alarm status
+Availability Zone
+Public IPv4 DNS
+Public IPv4 address
+Elastic IP
+IPv6 IPs
+Monitoring
+Security group name
+Key name
+Launch time
+Name
+Instance ID
+Instance state
+Instance type
+Status check
+Alarm status
+Availability Zone
+Public IPv4 DNS
+Public IPv4 address
+Elastic IP
+IPv6 IPs
+Monitoring
+Security group name
+Key name
+Launch time
+ubuntu
+i-0ad99fa3d77003164	
+ Running
+t2.micro	2/2 checks passed	
+No alarms
+ap-southeast-1a	ec2-54-255-87-17.ap-southeast-1.compute.amazonaws.com	54.255.87.17	–	–	disabled	launch-wizard-2	brahma	2021/07/26 11:10 GMT+5:30
+Launch instances
+Launch instance from template
+Connect
+Stop instance
+Start instance
+Reboot instance
+Hibernate instance
+Terminate instance
+Instance settings
+Attach to Auto Scaling Group
+Change instance type
+Change Nitro Enclaves
+Change termination protection
+Change shutdown behavior
+Change credit specification
+Modify instance placement
+Modify Capacity Reservation settings
+Edit user data
+Manage tags
+Networking
+Attach network interface
+Detach network interface
+Change source/destination check
+Disassociate Elastic IP address
+Manage IP addresses
+Security
+Change security groups
+Get Windows password
+Modify IAM role
+Image and templates
+Create image
+Create template from instance
+Launch more like this
+Monitor and troubleshoot
+Get system log
+Get instance screenshot
+Manage detailed monitoring
+Manage CloudWatch alarms
+EC2 Serial Console
+Replace root volume
+Instance: i-0ad99fa3d77003164 (ubuntu)
+
+Details
+Security
+Networking
+Storage
+Status checks
+Monitoring
+Tags
+Instance summary Info
+Instance ID
+ i-0ad99fa3d77003164 (ubuntu)
+Public IPv4 address
+ 54.255.87.17 | open address 
+Private IPv4 addresses
+ 172.31.29.238
+Instance state
+ Running
+Public IPv4 DNS
+ ec2-54-255-87-17.ap-southeast-
