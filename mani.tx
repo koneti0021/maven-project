@@ -1,0 +1,2 @@
+These checks monitor the AWS systems required to use this instance and ensure they are functioning properly.
+These checks monitor your software and network configuration for this instance.
